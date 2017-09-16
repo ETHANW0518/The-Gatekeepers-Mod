@@ -1,4 +1,6 @@
 The Gatekeepers is a WIP mod developed by ETHANW0518.
+So far it includes 2 items.
 
-So far it includes
-- Sandy Gel, dropped by Sand Slimes
+Version History:
+V0.2 Fixed Sandy Gel dropping before EoW or BoC has been Defeated. Added Swarmer Hide
+V0.1 Added Sandy Gel
