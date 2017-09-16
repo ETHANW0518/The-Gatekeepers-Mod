@@ -7,23 +7,16 @@ namespace Gatekeeper.Items
 	{
 		public override void SetStaticDefaults()
 		{
-			DisplayName.SetDefault("SandyGel");
-			Tooltip.SetDefault("This is a modded sword.");
+			DisplayName.SetDefault("Sandy Gel");
+			Tooltip.SetDefault("'This dusty gel glimmers in the light!'");
 		}
 		public override void SetDefaults()
 		{
-			item.damage = 50;
-			item.melee = true;
-			item.width = 40;
-			item.height = 40;
-			item.useTime = 20;
-			item.useAnimation = 20;
-			item.useStyle = 1;
-			item.knockBack = 6;
-			item.value = 10000;
+			item.width = 20;
+			item.height = 14;
+			item.value = 5;
 			item.rare = 2;
-			item.UseSound = SoundID.Item1;
-			item.autoReuse = true;
+			item.maxStack = 999;
 		}
 	}
 }
