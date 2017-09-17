@@ -12,7 +12,7 @@ namespace Gatekeeper.Items
 		}
 		public override void SetDefaults()
 		{
-			item.width = 20;
+			item.width = 21;
 			item.height = 15;
 			item.value = 5;
 			item.rare = 2;
