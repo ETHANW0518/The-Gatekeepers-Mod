@@ -1,4 +1,4 @@
-3author = ETHANW0518
-version = 0.1
+author = ETHANW0518
+version = 0.3
 displayName = The Gatekeepers
 homepage = https://discord.gg/qJSfRaH
