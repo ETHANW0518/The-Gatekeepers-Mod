@@ -13,6 +13,10 @@ namespace Gatekeeper.NPCs
 			{
 				Item.NewItem((int)npc.position.X, (int)npc.position.Y, npc.width, npc.height, mod.ItemType("SandyGel"), 1);
 			}
+			if (npc.type == 509 && NPC.downedBoss2 && Main.rand.Next(3) == 1)
+            {
+                Item.NewItem((int)npc.position.X, (int)npc.position.Y, npc.width, npc.height, mod.ItemType("SwarmerHide"), 1);
+            }
 
         }
 	}
