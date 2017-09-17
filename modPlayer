@@ -1,6 +1,0 @@
-bool haveSaidMessage = false;
-if (NPC.downedBoss2 && !haveSaidMessage)
-{
-haveSaidMessage = true;
-Main.NewText("An ancient desert god is on the verge of rising...");
-}
