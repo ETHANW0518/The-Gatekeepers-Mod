@@ -11,7 +11,7 @@ namespace Gatekeeper.Items
 			Tooltip.SetDefault("'The hide feels as strong as oak'");
 		}
 		public override void SetDefaults()
-		
+		{
 			item.width = 20;
 			item.height = 14;
 			item.value = 5;
