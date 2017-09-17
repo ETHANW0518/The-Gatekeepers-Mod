@@ -13,7 +13,7 @@ namespace Gatekeeper.Items
 		public override void SetDefaults()
 		{
 			item.width = 20;
-			item.height = 14;
+			item.height = 15;
 			item.value = 5;
 			item.rare = 2;
 			item.maxStack = 999;
