@@ -1,5 +1,5 @@
 The Gatekeepers is a WIP mod developed by ETHANW0518.
-So far it includes 3 items.
+So far it includes 3 items, and 1 boss.
 
 Version History:
 V0.3 Added 2 new desert items & A new boss
