@@ -1,4 +1,4 @@
 author = ETHANW0518
 version = 0.3
 displayName = The Gatekeepers
-homepage = https://discord.gg/qJSfRaH
+homepage = https://forums.terraria.org/index.php?threads/the-gatekeeper-mod.62089/#post-1459116
