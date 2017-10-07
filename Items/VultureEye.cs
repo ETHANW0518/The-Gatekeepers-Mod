@@ -8,7 +8,7 @@ namespace Gatekeeper.Items
 		public override void SetStaticDefaults()
 		{
 			DisplayName.SetDefault("Vuture Eye");
-			Tooltip.SetDefault("'Why do you have this?!'");
+			Tooltip.SetDefault("'Why do you have this?'");
 		}
 		public override void SetDefaults()
 		{
