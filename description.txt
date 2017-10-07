@@ -1,7 +1,7 @@
 The Gatekeepers is a WIP mod developed by ETHANW0518.
-So far it includes 3 items, and 1 boss.
+So far it includes 3 items, 2 weapons & 1 boss.
 
 Version History:
-V0.3 Added 2 new desert items & A new boss
+V0.3 Added 2 new desert items, 2 weapons & A new boss
 V0.2 Fixed Sandy Gel dropping before EoW or BoC has been Defeated.
 V0.1 Added Sandy Gel.
